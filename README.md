@@ -12,6 +12,7 @@ Realizar un CRUD de usuarios utilzando Angular
 ### Obligatorio
   - Pantalla de para registrar un nuevo usuario (Nombre, apellido, email, fecha de cumpleaños)
   - Pantalla para enlistar los usuarios. Además se podran eliminar o editar
+  - En la pantalla para enlistar usuarios, crear un filtro que permita buscar por nombre o por email.
 
 ### Extra
   - Crear un proyecto de laravel con APIS para registrar, editar y eliminar usuarios
