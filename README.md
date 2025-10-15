@@ -11,7 +11,7 @@ Realizar un CRUD de usuarios utilzando Angular. Tiempo estimado 2 horas y 30 min
   - Pantalla de para registrar un nuevo usuario (Nombre, apellido, contraseña ,email, fecha de cumpleaños, N° de identificacion, direcciones)
   - Pantalla para enlistar los usuarios. Además se podran eliminar o editar.
   - En la pantalla para enlistar usuarios, crear un filtro que permita buscar por nombre, email o identificación.
-  - Almacenar los Datos de Usuarios y Direcciones en la dirección "src/app/models" como tipo JSON
+  - Almacenar los Datos de Usuarios y Direcciones en la dirección "src/app/database" como tipo JSON
   - Permitir descargar la lista en formato excel y Csv.
   - (Opcional) Crear menú desplegable a la izquierda de la pantalla que te permita navegar entre las pantallas de creación de usuario y Lista de Usuarios
  
